@@ -1,6 +1,7 @@
 # STM32F4 Embedded Systems - PoliTo Lab Projects
 
 **Author:** Yvana Fotso
+
 **Contact:** vanorguem@gmail.com | https://www.linkedin.com/in/yvana-fotso
 **Platform:** STM32F411RE Nucleo | STM32CubeIDE | LL Drivers  
 **Course:** Digital Systems & Embedded - Politecnico di Torino
