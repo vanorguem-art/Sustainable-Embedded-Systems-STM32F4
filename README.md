@@ -45,4 +45,4 @@ if (led_state == 1) {
 }
 
 ---
-Final Year Project - Politecnico di Torino (PoliTO) | Embedded Systems for Sustainable Development, PoliTO.
+**Final Project - Politecnico di Torino (PoliTO) | Embedded Systems for Sustainable Development, PoliTO.
