@@ -7,7 +7,7 @@
 **Platform:** STM32F411RE Nucleo | STM32CubeIDE | LL Drivers  
 **Course:** Digital Systems Electronics - Politecnico di Torino
 
-This repository contains 6 hands-on projects on STM32F4 low-level programming, focusing on real-time GPIO control, button debouncing, and signal generation. These projects are designed for sustainable IoT applications..
+This repository contains 6 hands-on projects on STM32F4 low-level programming, focusing on real-time GPIO control, button debouncing, and signal generation. These projects are designed for sustainable IoT applications.
 
 ### 🔧 Projects Overview
 
@@ -44,5 +44,3 @@ if (led_state == 1) {
   // blink logic
 }
 
----
-**Final Project - Politecnico di Torino (PoliTO) | Embedded Systems for Sustainable Development, PoliTO.
