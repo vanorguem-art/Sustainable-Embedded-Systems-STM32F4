@@ -4,7 +4,7 @@
 
 **Contact:** vanorguem@gmail.com | https://www.linkedin.com/in/yvana-fotso
 **Platform:** STM32F411RE Nucleo | STM32CubeIDE | LL Drivers  
-**Course:** Digital Systems & Embedded - Politecnico di Torino
+**Course:** Digital Systems electronics - Politecnico di Torino
 
 This repository contains 6 hands-on projects on STM32F4 low-level programming, focusing on real-time GPIO control, button debouncing, and signal generation. These projects are part of my portfolio for Master MICS application at University of Luxembourg.
 
